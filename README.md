@@ -9,6 +9,7 @@ To build a Custom Plant Care Tracker, you will [create two Picklists](https://le
 [[TOC]]
 
 ##Prerequisites
+
 To complete the step-by-step procedure in this article, please review and verify the following requirements: 
 
 * A hosting environment with a minimum allocation of 8GB of available RAM
